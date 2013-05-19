@@ -6,11 +6,14 @@
 # Datatypes (KEYWORD1)
 #######################################
 
+Button	KEYWORD1
 Led	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
+
+# Led
 
 on	KEYWORD2
 off	KEYWORD2
@@ -22,6 +25,11 @@ setValue	KEYWORD2
 getValue	KEYWORD2
 incrValue	KEYWORD2
 decrValue	KEYWORD2
+
+# Button
+
+isPressed	KEYWORD2
+isChanged	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
